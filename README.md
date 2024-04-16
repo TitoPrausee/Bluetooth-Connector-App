@@ -29,5 +29,5 @@ To use Bluetooth and microphone features, you must configure your app's `Info.pl
 Privacy - Microphone Usage Description (NSMicrophoneUsageDescription):
 This permission is needed to receive voice commands through the microphone. Add the following entry to your Info.plist:
   ```xml
-  <key>NSMicrophoneUsageDescription</key>
-  <string>Our app uses the microphone to allow voice commands for controlling connected devices.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Our app uses the microphone to allow voice commands for controlling connected devices.</string>
